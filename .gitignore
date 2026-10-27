@@ -1,0 +1,10 @@
+# Compiled executable files
+*.exe
+
+# Common build output directories
+bin/
+obj/
+build/
+Debug/
+Release/
+
